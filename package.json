@@ -1,0 +1,22 @@
+{
+  "name": "molengit2",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter\r ###################",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailmahaj/molengit2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailmahaj/molengit2/issues"
+  },
+  "homepage": "https://github.com/ismailmahaj/molengit2#readme"
+}
