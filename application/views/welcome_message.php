@@ -93,6 +93,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</style>
 </head>
 <body>
+<p>	PvMjj2WhFhOhQSqGVbvtAitSIb5AdCbTFLWUhGBECvgOOURYpEMXzLb1lRSso5CCDznhgixSD5oSYS3zGIG4</p>
 	<h2>	salut t'es super mignon  <"3"</h2>
 	<div id="container">
 		<h1>
